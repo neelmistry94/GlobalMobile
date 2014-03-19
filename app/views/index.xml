@@ -1,6 +1,5 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, Titanium</Label>
-	</Window>
-	<LinearLayout android:background="BLACK"></LinearLayout>
+	<Button>
+		<Label id = "label" onClick = "doClick">Take The Quiz</Label>
+	</Button>
 </Alloy>

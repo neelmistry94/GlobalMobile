@@ -10,8 +10,8 @@ function Controller() {
     var $ = this;
     var exports = {};
     var __defers = {};
-    $.__views.index = Ti.UI.createWindow({
-        backgroundColor: "white",
+    $.__views.index = Ti.UI.createButton({
+        title: "",
         id: "index"
     });
     $.__views.index && $.addTopLevelView($.__views.index);
@@ -19,7 +19,7 @@ function Controller() {
         width: Ti.UI.SIZE,
         height: Ti.UI.SIZE,
         color: "#000",
-        text: "Hello, Titanium",
+        text: "Take The Quiz",
         id: "label"
     });
     $.__views.index.add($.__views.label);
