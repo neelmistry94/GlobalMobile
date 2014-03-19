@@ -11,3 +11,9 @@
 	left:10,
 	right:10
 }
+
+"#quizButton": {
+	top:400,
+	left:10,
+	right:10
+}
