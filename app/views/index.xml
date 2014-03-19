@@ -1,5 +1,5 @@
 <Alloy>
-	<Button>
-		<Label id = "label" onClick = "doClick">Take The Quiz</Label>
-	</Button>
+	<Window class="container">
+		<Label id="label" onClick="doClick">Hello, Titanium</Label>
+	</Window>
 </Alloy>

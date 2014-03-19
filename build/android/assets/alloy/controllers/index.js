@@ -10,8 +10,8 @@ function Controller() {
     var $ = this;
     var exports = {};
     var __defers = {};
-    $.__views.index = Ti.UI.createButton({
-        title: "",
+    $.__views.index = Ti.UI.createWindow({
+        backgroundColor: "red",
         id: "index"
     });
     $.__views.index && $.addTopLevelView($.__views.index);
@@ -19,14 +19,22 @@ function Controller() {
         width: Ti.UI.SIZE,
         height: Ti.UI.SIZE,
         color: "#000",
-        text: "Take The Quiz",
+        text: "Hello, Titanium",
         id: "label"
     });
     $.__views.index.add($.__views.label);
     doClick ? $.__views.label.addEventListener("click", doClick) : __defers["$.__views.label!click!doClick"] = true;
+    $.__views.__alloyId0 = Ti.UI.createButton({
+        title: "Foobar",
+        top: "0",
+        width: Ti.UI.SIZE,
+        id: "__alloyId0"
+    });
+    $.__views.__alloyId0 && $.addTopLevelView($.__views.__alloyId0);
     exports.destroy = function() {};
     _.extend($, $.__views);
     $.index.open();
+    $.button.setTitle("Push Me!");
     __defers["$.__views.label!click!doClick"] && $.__views.label.addEventListener("click", doClick);
     _.extend($, exports);
 }
