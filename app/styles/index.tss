@@ -3,29 +3,32 @@
 }
 
 "#banner": {
-	top:100
+	top:20
 }
 
 "#map1": {
-	top:200,
+	top:100,
 	left:10,
 	right:10
 }
 
 "#blurbButton":{
-	top:350,
-	left:10,
-	right:10
-}
-
-"#quizButton": {
+	backgroundColor:"black",
 	top:400,
 	left:10,
 	right:10
 }
 
-"#mapButton":{
+"#quizButton": {
+	backgroundColor:"black",
 	top:450,
+	left:10,
+	right:10
+}
+
+"#mapButton":{
+	backgroundColor:"black",
+	top:500,
 	left:10,
 	right:10
 }
