@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, Titanium</Label>
+		<ImageView id ="banner" image = "images/GlobalComm-horiz-new.png" />
 	</Window>
 </Alloy>
