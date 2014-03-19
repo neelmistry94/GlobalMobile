@@ -1,0 +1,16 @@
+".container" : {
+  backgroundColor:"red"
+}
+
+"#back": {
+	backgroundColor:"black",
+	bottom:10,
+	left:10,
+	right:10
+}
+
+"#map":{
+	top:200,
+	left:10,
+	right:10
+}

@@ -2,8 +2,8 @@
 	<Window class="container">
 		<ImageView id = "banner" image = "images/GlobalComm-horiz-new.png" />
 		<ImageView id = "map1" image = "images/0214map.jpg" />
-		<Button id = "blurbButton" onClick = "doClick" title = "What Is Globalization?"></Button>
-		<Button id = "quizButton" onClick = "doClick" title = "How Global Are You?"></Button>
-		<Button id = "mapButton" onClick = "doClick" title = "Interactive Map"></Button>
+		<Button id = "blurbButton" onClick = "openWindow1" title = "What Is Globalization?"></Button>
+		<Button id = "quizButton" onClick = "openWindow2" title = "How Global Are You?"></Button>
+		<Button id = "mapButton" onClick = "openWindow3" title = "Interactive Map"></Button>
 	</Window>
 </Alloy>

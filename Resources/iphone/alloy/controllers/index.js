@@ -1,6 +1,15 @@
 function Controller() {
-    function doClick() {
-        alert("This is a test");
+    function openWindow1() {
+        var blurbWin = Alloy.createController("blurbWin").getView();
+        blurbWin.open();
+    }
+    function openWindow2() {
+        var quizWin = Alloy.createController("quizWin").getView();
+        quizWin.open();
+    }
+    function openWindow3() {
+        var mapWin = Alloy.createController("mapWin").getView();
+        mapWin.open();
     }
     require("alloy/controllers/BaseController").apply(this, Array.prototype.slice.call(arguments));
     this.__controllerPath = "index";
@@ -16,7 +25,7 @@ function Controller() {
     });
     $.__views.index && $.addTopLevelView($.__views.index);
     $.__views.banner = Ti.UI.createImageView({
-        top: 10,
+        top: 30,
         id: "banner",
         image: "images/GlobalComm-horiz-new.png"
     });
@@ -38,7 +47,7 @@ function Controller() {
         title: "What Is Globalization?"
     });
     $.__views.index.add($.__views.blurbButton);
-    doClick ? $.__views.blurbButton.addEventListener("click", doClick) : __defers["$.__views.blurbButton!click!doClick"] = true;
+    openWindow1 ? $.__views.blurbButton.addEventListener("click", openWindow1) : __defers["$.__views.blurbButton!click!openWindow1"] = true;
     $.__views.quizButton = Ti.UI.createButton({
         backgroundColor: "black",
         top: 450,
@@ -48,7 +57,7 @@ function Controller() {
         title: "How Global Are You?"
     });
     $.__views.index.add($.__views.quizButton);
-    doClick ? $.__views.quizButton.addEventListener("click", doClick) : __defers["$.__views.quizButton!click!doClick"] = true;
+    openWindow2 ? $.__views.quizButton.addEventListener("click", openWindow2) : __defers["$.__views.quizButton!click!openWindow2"] = true;
     $.__views.mapButton = Ti.UI.createButton({
         backgroundColor: "black",
         top: 500,
@@ -58,13 +67,13 @@ function Controller() {
         title: "Interactive Map"
     });
     $.__views.index.add($.__views.mapButton);
-    doClick ? $.__views.mapButton.addEventListener("click", doClick) : __defers["$.__views.mapButton!click!doClick"] = true;
+    openWindow3 ? $.__views.mapButton.addEventListener("click", openWindow3) : __defers["$.__views.mapButton!click!openWindow3"] = true;
     exports.destroy = function() {};
     _.extend($, $.__views);
     $.index.open();
-    __defers["$.__views.blurbButton!click!doClick"] && $.__views.blurbButton.addEventListener("click", doClick);
-    __defers["$.__views.quizButton!click!doClick"] && $.__views.quizButton.addEventListener("click", doClick);
-    __defers["$.__views.mapButton!click!doClick"] && $.__views.mapButton.addEventListener("click", doClick);
+    __defers["$.__views.blurbButton!click!openWindow1"] && $.__views.blurbButton.addEventListener("click", openWindow1);
+    __defers["$.__views.quizButton!click!openWindow2"] && $.__views.quizButton.addEventListener("click", openWindow2);
+    __defers["$.__views.mapButton!click!openWindow3"] && $.__views.mapButton.addEventListener("click", openWindow3);
     _.extend($, exports);
 }
 
