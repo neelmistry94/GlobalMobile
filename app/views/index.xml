@@ -1,5 +1,6 @@
 <Alloy>
 	<Window class="container">
-		<ImageView id ="banner" image = "images/GlobalComm-horiz-new.png" />
+		<ImageView id = "banner" image = "images/GlobalComm-horiz-new.png" />
+		<ImageView id = "map1" image = "images/0214map.jpg" />
 	</Window>
 </Alloy>

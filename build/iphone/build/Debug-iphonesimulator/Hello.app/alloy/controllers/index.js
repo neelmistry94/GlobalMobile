@@ -17,6 +17,14 @@ function Controller() {
         image: "images/GlobalComm-horiz-new.png"
     });
     $.__views.index.add($.__views.banner);
+    $.__views.map1 = Ti.UI.createImageView({
+        top: 80,
+        left: 10,
+        right: 10,
+        id: "map1",
+        image: "images/0214map.jpg"
+    });
+    $.__views.index.add($.__views.map1);
     exports.destroy = function() {};
     _.extend($, $.__views);
     $.index.open();

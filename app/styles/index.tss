@@ -5,3 +5,9 @@
 "#banner": {
 	top:20
 }
+
+"#map1": {
+	top:80,
+	left:10,
+	right:10
+}
