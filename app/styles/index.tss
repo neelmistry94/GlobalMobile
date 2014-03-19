@@ -3,17 +3,29 @@
 }
 
 "#banner": {
-	top:20
+	top:100
 }
 
 "#map1": {
-	top:80,
+	top:200,
+	left:10,
+	right:10
+}
+
+"#blurbButton":{
+	top:350,
 	left:10,
 	right:10
 }
 
 "#quizButton": {
 	top:400,
+	left:10,
+	right:10
+}
+
+"#mapButton":{
+	top:450,
 	left:10,
 	right:10
 }

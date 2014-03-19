@@ -1,6 +1,6 @@
 function Controller() {
     function doClick() {
-        alert($.label.text);
+        alert("This is a test");
     }
     require("alloy/controllers/BaseController").apply(this, Array.prototype.slice.call(arguments));
     this.__controllerPath = "index";
@@ -15,27 +15,53 @@ function Controller() {
         id: "index"
     });
     $.__views.index && $.addTopLevelView($.__views.index);
-    $.__views.label = Ti.UI.createLabel({
-        width: Ti.UI.SIZE,
-        height: Ti.UI.SIZE,
-        color: "#000",
-        text: "Hello, Titanium",
-        id: "label"
+    $.__views.banner = Ti.UI.createImageView({
+        top: 100,
+        id: "banner",
+        image: "images/GlobalComm-horiz-new.png"
     });
-    $.__views.index.add($.__views.label);
-    doClick ? $.__views.label.addEventListener("click", doClick) : __defers["$.__views.label!click!doClick"] = true;
-    $.__views.__alloyId0 = Ti.UI.createButton({
-        title: "Foobar",
-        top: "0",
-        width: Ti.UI.SIZE,
-        id: "__alloyId0"
+    $.__views.index.add($.__views.banner);
+    $.__views.map1 = Ti.UI.createImageView({
+        top: 200,
+        left: 10,
+        right: 10,
+        id: "map1",
+        image: "images/0214map.jpg"
     });
-    $.__views.__alloyId0 && $.addTopLevelView($.__views.__alloyId0);
+    $.__views.index.add($.__views.map1);
+    $.__views.blurbButton = Ti.UI.createButton({
+        top: 350,
+        left: 10,
+        right: 10,
+        id: "blurbButton",
+        title: "What Is Globalization?"
+    });
+    $.__views.index.add($.__views.blurbButton);
+    doClick ? $.__views.blurbButton.addEventListener("click", doClick) : __defers["$.__views.blurbButton!click!doClick"] = true;
+    $.__views.quizButton = Ti.UI.createButton({
+        top: 400,
+        left: 10,
+        right: 10,
+        id: "quizButton",
+        title: "How Global Are You?"
+    });
+    $.__views.index.add($.__views.quizButton);
+    doClick ? $.__views.quizButton.addEventListener("click", doClick) : __defers["$.__views.quizButton!click!doClick"] = true;
+    $.__views.mapButton = Ti.UI.createButton({
+        top: 450,
+        left: 10,
+        right: 10,
+        id: "mapButton",
+        title: "Interactive Map"
+    });
+    $.__views.index.add($.__views.mapButton);
+    doClick ? $.__views.mapButton.addEventListener("click", doClick) : __defers["$.__views.mapButton!click!doClick"] = true;
     exports.destroy = function() {};
     _.extend($, $.__views);
     $.index.open();
-    $.button.setTitle("Push Me!");
-    __defers["$.__views.label!click!doClick"] && $.__views.label.addEventListener("click", doClick);
+    __defers["$.__views.blurbButton!click!doClick"] && $.__views.blurbButton.addEventListener("click", doClick);
+    __defers["$.__views.quizButton!click!doClick"] && $.__views.quizButton.addEventListener("click", doClick);
+    __defers["$.__views.mapButton!click!doClick"] && $.__views.mapButton.addEventListener("click", doClick);
     _.extend($, exports);
 }
 
