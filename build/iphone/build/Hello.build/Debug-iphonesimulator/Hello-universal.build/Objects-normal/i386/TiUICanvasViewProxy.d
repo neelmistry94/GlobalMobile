@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiUICanvasViewProxy.m
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiUICanvasViewProxy.m

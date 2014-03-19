@@ -1,31 +1,31 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiNetworkHTTPClientResultProxy.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiNetworkHTTPClientResultProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBase.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiThreading.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiPublicAPI.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiEvaluator.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollContext.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/headers/TiCore/TiCore.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiNetworkHTTPClientResultProxy.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiNetworkHTTPClientResultProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBase.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiThreading.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiPublicAPI.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiEvaluator.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollContext.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/headers/TiCore/TiCore.h \
   headers/TiCore/Ti.h headers/TiCore/TiBase.h \
   headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
   headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
   headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/headers/TiCore/TiContextRefPrivate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollCallback.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollObject.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBindingRunLoop.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiNetworkHTTPClientProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBlob.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASIFormDataRequest.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASIHTTPRequest.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASIHTTPRequestConfig.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASIHTTPRequestDelegate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASIProgressDelegate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/ASICacheDelegate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMDocumentProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/GDataXMLNode.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollCallback.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollObject.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiNetworkHTTPClientProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBlob.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASIFormDataRequest.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASIHTTPRequest.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASIHTTPRequestConfig.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASIHTTPRequestDelegate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASIProgressDelegate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/ASICacheDelegate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMDocumentProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/GDataXMLNode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/tree.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlversion.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlexports.h \
@@ -49,13 +49,13 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/SAX2.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpath.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpathInternals.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNodeProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollMethod.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollMethodDelegate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollPropertyDelegate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiUtils.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDimension.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiColor.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/WebFont.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiFile.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBuffer.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNodeProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollMethod.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollMethodDelegate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollPropertyDelegate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiUtils.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDimension.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiColor.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/WebFont.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiFile.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBuffer.h

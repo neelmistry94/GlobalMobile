@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/AsyncUdpSocket.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/AsyncUdpSocket.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/AsyncUdpSocket.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/AsyncUdpSocket.h

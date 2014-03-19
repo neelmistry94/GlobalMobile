@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/AFOpenFlow/AFItemView.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/AFOpenFlow/AFItemView.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/AFOpenFlow/AFOpenFlowConstants.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/AFOpenFlow/AFItemView.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/AFOpenFlow/AFItemView.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/AFOpenFlow/AFOpenFlowConstants.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ApplicationMods.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ApplicationMods.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ApplicationMods.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ApplicationMods.h

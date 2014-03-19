@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/Reachability.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/ASI/Reachability.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/Reachability.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/ASI/Reachability.h

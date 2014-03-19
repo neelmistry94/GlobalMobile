@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNodeProxy.m \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNodeProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBase.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiThreading.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiPublicAPI.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiEvaluator.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollContext.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/headers/TiCore/TiCore.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNodeProxy.m \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNodeProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBase.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiThreading.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiPublicAPI.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiEvaluator.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollContext.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/headers/TiCore/TiCore.h \
   headers/TiCore/Ti.h headers/TiCore/TiBase.h \
   headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
   headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
   headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/headers/TiCore/TiContextRefPrivate.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollCallback.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/KrollObject.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBindingRunLoop.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/GDataXMLNode.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollCallback.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/KrollObject.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/GDataXMLNode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/tree.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlversion.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xmlexports.h \
@@ -40,26 +40,26 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/SAX2.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpath.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2/libxml/xpathInternals.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMDocumentProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMElementProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMTextNodeProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TIDOMCharacterDataProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNamedNodeMapProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNodeListProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMAttrProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMCDATANodeProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMCommentProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TIDOMDocumentTypeProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMDocFragProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMPIProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMEntityProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMEntityRefProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMNotationProxy.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiUtils.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDimension.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiColor.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/WebFont.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiFile.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBuffer.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiBlob.h \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/TiDOMValidator.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMDocumentProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMElementProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMTextNodeProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TIDOMCharacterDataProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNamedNodeMapProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNodeListProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMAttrProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMCDATANodeProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMCommentProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TIDOMDocumentTypeProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMDocFragProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMPIProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMEntityProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMEntityRefProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMNotationProxy.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiUtils.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDimension.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiColor.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/WebFont.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiFile.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBuffer.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiBlob.h \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/TiDOMValidator.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/CADebugMacros.cpp \
-  /Users/neelmistry/Documents/Development/Hello/build/iphone/Classes/CADebugMacros.h
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/CADebugMacros.cpp \
+  /Users/neelmistry/Documents/Development/GlobalMobile/build/iphone/Classes/CADebugMacros.h
