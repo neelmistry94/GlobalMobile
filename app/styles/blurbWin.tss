@@ -8,3 +8,11 @@
 	left:10,
 	right:10
 }
+
+"#blurb": {
+	backgroundColor:"white",
+	top:200,
+	height:200,
+	left:10,
+	right:10
+}

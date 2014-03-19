@@ -1,5 +1,6 @@
 <Alloy>
 	<Window class="container">
+		<TextField id = "blurb">
 		<Button id = "back" onClick = "back" title = "Previous Page"></Button>
 	</Window>
 </Alloy>
