@@ -15,6 +15,15 @@ function Controller() {
         id: "blurbWin"
     });
     $.__views.blurbWin && $.addTopLevelView($.__views.blurbWin);
+    $.__views.blurb = Ti.UI.createTextField({
+        backgroundColor: "white",
+        top: 200,
+        height: 200,
+        left: 10,
+        right: 10,
+        id: "blurb"
+    });
+    $.__views.blurbWin.add($.__views.blurb);
     $.__views.back = Ti.UI.createButton({
         backgroundColor: "black",
         bottom: 10,
