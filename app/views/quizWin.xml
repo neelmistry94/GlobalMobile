@@ -1,5 +1,6 @@
 <Alloy>
 	<Window class="container">
+		<Button id = "start" onClick = "start" title = "Start The Quiz"></Button>
 		<Button id = "back" onClick = "back" title = "Previous Page"></Button>
 	</Window>
 </Alloy>

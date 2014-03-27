@@ -8,3 +8,11 @@
 	left:10,
 	right:10
 }
+
+"#start":{
+	backgroundColor:"black",
+	top:200,
+	left:10,
+	right:10
+}
+
